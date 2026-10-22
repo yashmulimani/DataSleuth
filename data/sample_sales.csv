@@ -1,0 +1,9 @@
+order_id,customer,quantity,sales_amount,region
+1001,Asha,2,500.0,West
+1002,Ravi ,1,250.0,South
+1002,Ravi ,1,250.0,South
+1004,Meera,3,,East
+1005,,2,700.0,West
+1006,Kabir,-1,100.0,North
+1007,Nina,4,820.0,West
+1008,Omar,1,120.0,East
